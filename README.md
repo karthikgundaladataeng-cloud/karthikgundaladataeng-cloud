@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Karthik G 👋
+# Hi there, I'm Karthik 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Senior+Data+Engineer+%7C+GenAI+Developer;RAG+Pipelines+%7C+Agentic+AI+%7C+LLM+Applications;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+Vertex+AI;13%2B+Years+Enterprise+Data+Architecture)](https://git.io/typing-svg)
 
