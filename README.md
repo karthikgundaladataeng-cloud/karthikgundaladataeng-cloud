@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karthik G 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <b>Senior Data Engineer & GenAI Developer</b><br/>
