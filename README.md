@@ -28,6 +28,60 @@
 
 ---
 
+## Technical Skills
+
+### Generative AI & LLM *(Active Focus)*
+
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=flat&logo=langchain&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-0052CC?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat)
+![AutoGen](https://img.shields.io/badge/AutoGen-black?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-red?style=flat)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-lightgrey?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-green?style=flat)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6B35?style=flat)
+
+| Area | Details |
+|---|---|
+| **GenAI Frameworks** | LangChain, LangGraph, LangChain Agents, Agentic AI Workflows, AutoGen, CrewAI, Google ADK |
+| **LLM Platforms** | OpenAI API (GPT-4o), Google Vertex AI, Anthropic Claude API |
+| **RAG & Retrieval** | RAG Pipeline Design, Vector Search, Embedding Models, Retrieval Optimization, Chunking Strategies, FAISS, Pinecone, Weaviate |
+| **Prompt Engineering** | Prompt Design, Prompt Routing, Chain-of-Thought, Few-Shot Prompting, Output Schema Enforcement, LLM Evaluation |
+| **MLOps / AI Safety** | CI/CD for AI Models, Model Deployment & Monitoring, Guardrails, Safety Frameworks, Responsible AI, LLMOps |
+
+### Core Data Engineering & ETL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=flat&logo=apachehadoop&logoColor=black)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat)
+![Ab Initio](https://img.shields.io/badge/Ab%20Initio-003366?style=flat)
+
+| Category | Tools & Technologies |
+|---|---|
+| **ETL Tools** | Ab Initio, Informatica PowerCenter, Informatica Cloud, Informatica Data Quality, Informatica BigData |
+| **Languages** | Python, SQL, PL/SQL, Shell Scripting (Korn/Bash), UNIX Scripting |
+| **Databases** | Oracle 11g/10g/9i, DB2, SQL Server, MySQL, MongoDB (NoSQL), Teradata, IMS/DB |
+| **DB Tools** | TOAD, Oracle SQL Developer v21.4.2, Aqua Data Studio v22.0, SQL Assistant, WinSQL, SQL Loader, SQL Plus |
+| **Big Data** | Hadoop (HDFS), Hive, HBase, MapReduce, Apache Spark (Java-based), Edge Node Ingestion Frameworks |
+| **Cloud & DW** | AWS S3 (Data Lake Migration), Snowflake (Clustering, Time Travel, Cloning, Caching), Data Vault 2.0 |
+| **Architecture** | ODS, EDW, Data Lake, Data Mart, Data Staging, Multi-Zone Ingestion (Sanitized / Conformed / Curated / Distribution) |
+| **Data Concepts** | Dimensional Modeling, Data Vault 2.0, SCD, CDC, Data Profiling, Data Lineage, Source-to-Target Mapping |
+| **Scheduling** | AutoSys (Control Center GUI), Ctrl-M, Tivoli (TWS) — PSETs, job monitoring, batch management |
+| **DevOps / CI-CD** | Jenkins, GitHub, IBM UrbanCode, ServiceNow (ITSM, Change Mgmt, CTASK execution) |
+| **BI & Reporting** | Tableau, Power BI — dashboards, scorecards, bar graphs, maps, Gantt charts |
+| **Methodology** | Agile/Scrum, Kanban, Waterfall, Iterative; SDLC, SIT, UAT, Performance Testing, HP ALM / Quality Center |
+| **Other** | REST API Integration, Salesforce (SFDC) ETL, XML Read/Write, Mainframe, Windows, Unix, Linux |
+
+---
+
 ## Certifications
 
 | Certification | Provider |
@@ -132,60 +186,6 @@
 - Managed production defects and enhancements — triaging by business impact, performing RCA, and coordinating with source and downstream teams for timely resolution of financial pipeline issues.
 - Optimized ETL performance across varying data volumes — identifying bottlenecks and implementing fixes to reduce batch execution times. Created PSETs for parameterized job execution without code changes.
 - Authored HLD documents and Deployment Guides for all projects. Scheduled and monitored job runs via Control-M; managed **Severity-1 incidents** with hourly stakeholder updates — demonstrating strong discipline in high-stakes production support.
-
----
-
-## Technical Skills
-
-### Generative AI & LLM *(Active Focus)*
-
-![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=flat&logo=langchain&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-0052CC?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat&logo=openai&logoColor=white)
-![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat)
-![AutoGen](https://img.shields.io/badge/AutoGen-black?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-red?style=flat)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-lightgrey?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-green?style=flat)
-![Weaviate](https://img.shields.io/badge/Weaviate-FF6B35?style=flat)
-
-| Area | Details |
-|---|---|
-| **GenAI Frameworks** | LangChain, LangGraph, LangChain Agents, Agentic AI Workflows, AutoGen, CrewAI, Google ADK |
-| **LLM Platforms** | OpenAI API (GPT-4o), Google Vertex AI, Anthropic Claude API |
-| **RAG & Retrieval** | RAG Pipeline Design, Vector Search, Embedding Models, Retrieval Optimization, Chunking Strategies, FAISS, Pinecone, Weaviate |
-| **Prompt Engineering** | Prompt Design, Prompt Routing, Chain-of-Thought, Few-Shot Prompting, Output Schema Enforcement, LLM Evaluation |
-| **MLOps / AI Safety** | CI/CD for AI Models, Model Deployment & Monitoring, Guardrails, Safety Frameworks, Responsible AI, LLMOps |
-
-### Core Data Engineering & ETL
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=flat&logo=apachehadoop&logoColor=black)
-![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat)
-![Ab Initio](https://img.shields.io/badge/Ab%20Initio-003366?style=flat)
-
-| Category | Tools & Technologies |
-|---|---|
-| **ETL Tools** | Ab Initio, Informatica PowerCenter, Informatica Cloud, Informatica Data Quality, Informatica BigData |
-| **Languages** | Python, SQL, PL/SQL, Shell Scripting (Korn/Bash), UNIX Scripting |
-| **Databases** | Oracle 11g/10g/9i, DB2, SQL Server, MySQL, MongoDB (NoSQL), Teradata, IMS/DB |
-| **DB Tools** | TOAD, Oracle SQL Developer v21.4.2, Aqua Data Studio v22.0, SQL Assistant, WinSQL, SQL Loader, SQL Plus |
-| **Big Data** | Hadoop (HDFS), Hive, HBase, MapReduce, Apache Spark (Java-based), Edge Node Ingestion Frameworks |
-| **Cloud & DW** | AWS S3 (Data Lake Migration), Snowflake (Clustering, Time Travel, Cloning, Caching), Data Vault 2.0 |
-| **Architecture** | ODS, EDW, Data Lake, Data Mart, Data Staging, Multi-Zone Ingestion (Sanitized / Conformed / Curated / Distribution) |
-| **Data Concepts** | Dimensional Modeling, Data Vault 2.0, SCD, CDC, Data Profiling, Data Lineage, Source-to-Target Mapping |
-| **Scheduling** | AutoSys (Control Center GUI), Ctrl-M, Tivoli (TWS) — PSETs, job monitoring, batch management |
-| **DevOps / CI-CD** | Jenkins, GitHub, IBM UrbanCode, ServiceNow (ITSM, Change Mgmt, CTASK execution) |
-| **BI & Reporting** | Tableau, Power BI — dashboards, scorecards, bar graphs, maps, Gantt charts |
-| **Methodology** | Agile/Scrum, Kanban, Waterfall, Iterative; SDLC, SIT, UAT, Performance Testing, HP ALM / Quality Center |
-| **Other** | REST API Integration, Salesforce (SFDC) ETL, XML Read/Write, Mainframe, Windows, Unix, Linux |
 
 ---
 
