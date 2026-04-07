@@ -112,17 +112,38 @@
 
 ## 🚀 GenAI Projects — Independent / Freelance
 
-### `Independent GenAI Developer` &nbsp;·&nbsp; 2024 – Present
+### `Independent GenAI Developer` &nbsp;·&nbsp; April 2025 – Present
 
 <details open>
-<summary><b>1. RAG-Based Enterprise Document Q&A Chatbot</b> &nbsp;<code>In Progress</code></summary>
+<summary><b>1. RAG-Based Enterprise Document Q&A Chatbot — Financial Services</b> &nbsp;<code>April 2025 – April 2026 · 12 months · Sole Technical Lead</code></summary>
 <br/>
 
-- Built an end-to-end **RAG pipeline** using LangChain, OpenAI GPT-4o, and FAISS — covering document ingestion, chunking, Hugging Face embedding generation, and vector indexing for accurate semantic search over large enterprise document collections
-- Applied chain-of-thought and few-shot prompting to improve response accuracy and reduce hallucinations; implemented input/output guardrails and content safety checks aligned with responsible AI and financial services compliance
-- Built an **LLM evaluation framework** tracking relevance, accuracy, hallucination rate, and latency using MLOps best practices
+**Overview:** Built a production-grade conversational AI system for a mid-sized financial services firm — enabling staff to query loan agreements, compliance policies, KYC guidelines, and regulatory manuals in plain English with source-cited, grounded answers. Full multi-turn conversation, enterprise guardrails, and LangGraph agentic orchestration for complex multi-document queries.
 
-> **Tech Stack:** `Python` `LangChain` `OpenAI GPT-4o` `FAISS` `Hugging Face Embeddings`
+**Design & Architecture**
+- Designed the end-to-end system architecture — ingestion pipeline, RAG retrieval layer, LLM generation layer, conversation management, and guardrail middleware
+- Made all technology selection decisions — choosing LangChain over LlamaIndex, LangGraph for agent orchestration, Weaviate over Pinecone for production vector storage (compliance requirement: self-hosted on GCP)
+- Defined the custom semantic chunking strategy after identifying early retrieval failures in financial documents
+
+**Development**
+- Built the full Python backend — **FastAPI** services, RAG pipeline, LangGraph agent graphs, conversation memory, guardrail middleware, evaluation scripts
+- Wrote **custom semantic chunking logic** using PyMuPDF structural metadata — splitting on section boundaries, not token counts; added 20% overlap between adjacent chunks
+- Implemented **three-layer guardrail system** — topic scoping, PII detection (spaCy NER + regex), retrieval confidence thresholding
+- Built **LangGraph 4-node agent graph** for complex queries: `query_classifier → query_decomposer → retriever → synthesiser` with typed state and conditional routing
+
+**Deployment & MLOps**
+- Containerised all services in **Docker**, deployed on **Google Cloud Run** (scales to zero — cost-optimised for variable financial services traffic)
+- Used **Google ADK** for agent versioning and endpoint management on Vertex AI
+- Set up **GitHub Actions CI/CD** pipeline — lint, test, build, deploy on every merge to main
+- Integrated **LangSmith** for LLM observability — trace logging, token usage, retrieval evaluation
+
+**Quality & Evaluation**
+- Built a **150-question evaluation dataset** manually verified against source documents
+- Retrieval precision improved from **61% → 84%** after semantic chunking fix (+23 points)
+- Wrote **pytest** unit tests for chunking logic, retrieval pipeline, and all guardrail functions
+- System passed enterprise security review with **zero critical findings**
+
+> **Tech Stack:** `Python` `LangChain` `LangGraph` `FastAPI` `OpenAI GPT-4o` `Google Vertex AI` `Weaviate` `FAISS` `spaCy` `PyMuPDF` `Redis` `Docker` `GCP Cloud Run` `GitHub Actions` `LangSmith`
 
 </details>
 
