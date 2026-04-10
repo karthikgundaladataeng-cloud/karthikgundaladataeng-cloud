@@ -105,7 +105,7 @@
 | 🎖️ Certification | 🏛️ Provider |
 |---|---|
 | **Google Cloud: Generative AI Fundamentals** — LLM fundamentals, Vertex AI, prompt design, responsible AI | Google Cloud Skills Boost |
-| **LangChain for LLM Application Development** — LangChain chains, agents, memory, RAG pipelines, LLM tool integration | DeepLearning.AI (Andrew Ng) |
+| **LangChain for LLM Application Development** — LangChain chains, agents, memory, RAG pipelines, LLM tool integration &nbsp; [🔗 Verify](https://learn.deeplearning.ai/accomplishments/befc5f53-2bad-478e-9f2d-16c4362032ec?usp=sharing) | DeepLearning.AI (Andrew Ng) |
 | **AI Fundamentals** — Foundational AI concepts, machine learning, and practical AI applications &nbsp; [🔗 Verify](https://www.coursera.org/account/accomplishments/verify/SD28D8KYWDNQ) | Coursera |
 
 </div>
